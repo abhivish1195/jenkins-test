@@ -1,4 +1,4 @@
-FROM tianon/docker-brew-ubuntu-core
+FROM abhivish1195/18.04
 
 ADD ubutia-master /var/www/html/
 
