@@ -1,4 +1,4 @@
-FROM abhivish1195/ubuntu
+FROM abhivish1195/ubuntunew1212
 
 ADD ubutia-master /var/www/html/
 
