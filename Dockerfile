@@ -1,5 +1,4 @@
-FROM abhivish1195/ubuntu:latest
-
+FROM abhivish1195/ubuntu
 ADD ubutia-master /var/www/html/
 
 CMD apachectl -D FOREGROUND
